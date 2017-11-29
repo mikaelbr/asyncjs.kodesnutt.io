@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kodesnutt</title>
+  
+  <subtitle>Async JavaScript</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://asyncjs.kodesnutt.io/"/>
+  <updated>2017-11-29T07:35:34.000Z</updated>
+  <id>https://asyncjs.kodesnutt.io/</id>
+  
+  <author>
+    <name>Mikael Brevik</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Event Loop</title>
+    <link href="https://asyncjs.kodesnutt.io/2017/11/27/02-EventLoop/"/>
+    <id>https://asyncjs.kodesnutt.io/2017/11/27/02-EventLoop/</id>
+    <published>2017-11-27T12:47:13.000Z</published>
+    <updated>2017-11-29T07:35:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Andre episode av serien hvor vi undersøker asynkron JavaScript. I denne episoden ser vi på hva en event loop er i JavaScript og hva det betyr at JavaScript er single threaded.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Andre episode av serien hvor vi undersøker asynkron JavaScript. I denne episoden ser vi på hva en event loop er i JavaScript og hva det b
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Callbacks</title>
+    <link href="https://asyncjs.kodesnutt.io/2017/11/27/01-Callbacks/"/>
+    <id>https://asyncjs.kodesnutt.io/2017/11/27/01-Callbacks/</id>
+    <published>2017-11-27T11:49:38.000Z</published>
+    <updated>2017-11-29T07:35:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vi starter den nye serien om asynkron JavaScript med å se på den mest grunnleggende byggeklossen til asynkronitet i JavaScript: Callbacket.</p><p>En funksjon som lar deg delegere bort ansvar til invokasjon til noen andre.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Vi starter den nye serien om asynkron JavaScript med å se på den mest grunnleggende byggeklossen til asynkronitet i JavaScript: Callbacke
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
