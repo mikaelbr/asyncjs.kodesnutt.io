@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://asyncjs.kodesnutt.io/"/>
-  <updated>2017-11-29T07:35:34.000Z</updated>
+  <updated>2017-12-14T21:37:39.806Z</updated>
   <id>https://asyncjs.kodesnutt.io/</id>
   
   <author>
@@ -15,6 +15,69 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Feilhåndtering av promises</title>
+    <link href="https://asyncjs.kodesnutt.io/2017/12/14/05-Feilhandtering-av-promises/"/>
+    <id>https://asyncjs.kodesnutt.io/2017/12/14/05-Feilhandtering-av-promises/</id>
+    <published>2017-12-14T21:32:38.000Z</published>
+    <updated>2017-12-14T21:37:39.806Z</updated>
+    
+    <content type="html"><![CDATA[<p>Feilhåndtering med promises kan være litt mystisk, og det er lett for å gi uventet feil i en lang promise-chain. I denne episoden ser vi på hvordan catching av feil i promises fungerer!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Feilhåndtering med promises kan være litt mystisk, og det er lett for å gi uventet feil i en lang promise-chain. I denne episoden ser vi 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Promises</title>
+    <link href="https://asyncjs.kodesnutt.io/2017/12/14/04-Promises/"/>
+    <id>https://asyncjs.kodesnutt.io/2017/12/14/04-Promises/</id>
+    <published>2017-12-14T20:44:46.000Z</published>
+    <updated>2017-12-14T21:34:24.829Z</updated>
+    
+    <content type="html"><![CDATA[<p>I denne episoden bygger vi videre på konseptene vi lærte i forrige episode i serien rundt thunks og futures. Promises er et konsept som er bygd inn i Node.js og nettlesere som er likt konseptet futures, men man har en større API-overflate og man kan lage nye promises basert på tidligere promises.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I denne episoden bygger vi videre på konseptene vi lærte i forrige episode i serien rundt thunks og futures. Promises er et konsept som e
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Thunks &amp; Futures</title>
+    <link href="https://asyncjs.kodesnutt.io/2017/12/01/03-Thunks-Futures/"/>
+    <id>https://asyncjs.kodesnutt.io/2017/12/01/03-Thunks-Futures/</id>
+    <published>2017-12-01T08:01:17.000Z</published>
+    <updated>2017-12-03T21:45:41.910Z</updated>
+    
+    <content type="html"><![CDATA[<p>I denne episoden skal vi se hvordan vi kan holde på en asynkron verdi uten å måtte ta stilling til det med en gang via en callback. Vi skal se på grunnleggende thunks og noe vi kaller futures.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I denne episoden skal vi se hvordan vi kan holde på en asynkron verdi uten å måtte ta stilling til det med en gang via en callback. Vi sk
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Event Loop</title>
