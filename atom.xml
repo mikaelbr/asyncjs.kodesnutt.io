@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://asyncjs.kodesnutt.io/"/>
-  <updated>2017-12-14T21:37:39.806Z</updated>
+  <updated>2018-01-18T18:03:40.910Z</updated>
   <id>https://asyncjs.kodesnutt.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Kombinere promises</title>
+    <link href="https://asyncjs.kodesnutt.io/2018/01/18/06-Kombinere-promises/"/>
+    <id>https://asyncjs.kodesnutt.io/2018/01/18/06-Kombinere-promises/</id>
+    <published>2018-01-18T17:23:01.000Z</published>
+    <updated>2018-01-18T18:03:40.910Z</updated>
+    
+    <content type="html"><![CDATA[<p>Fordelen med Promises er at man får invertert kontroll av asynkron kode og kunne referere til en mulig verdi i fremtiden i en variabel. Det betyr at man og kan lage nye mulige fremtidige verdier ut i fra en eller flere slike verdier og kombinere de uten å måtte tenke på tid som en faktor. I denne episoden ser vi på hvordan vi kan kombinere promises på tre måter: første til mølla, alle samtidig i parallell og alle i serier.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Fordelen med Promises er at man får invertert kontroll av asynkron kode og kunne referere til en mulig verdi i fremtiden i en variabel. D
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Feilhåndtering av promises</title>
